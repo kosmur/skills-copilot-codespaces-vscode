@@ -1,0 +1,11 @@
+// Demo copilot
+{
+    "name": "Demo Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
